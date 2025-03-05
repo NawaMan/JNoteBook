@@ -28,7 +28,7 @@
         
         <!-- DEPENDENCY -->
         <defaultj.version>2.2.0.5</defaultj.version>
-        <functionalj.version>1.0.18-16-SNAPSHOT</functionalj.version>
+        <functionalj.version>1.0.18-19-SNAPSHOT</functionalj.version>
         
         <!-- TEST -->
         <junit.version>5.9.0</junit.version>

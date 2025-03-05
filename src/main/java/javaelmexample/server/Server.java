@@ -74,7 +74,7 @@ public class Server {
             }
         })
         .async()
-        .onComplete(result -> {
+        .onCompleted(result -> {
             result.ifException(exception -> {
                 exception.printStackTrace();
                 stop();
